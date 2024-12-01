@@ -115,7 +115,7 @@ function App() {
     <div className="App">
       <ThemeProvider theme={theme}>
         <header className="App-header">
-          Live Translink Analytics
+          Translytics
         </header>
         <Box sx={{ width: '100%' }}>
           <Tabs
